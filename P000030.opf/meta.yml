@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000030
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅། །ཚོགས་གསོག་མཆོད་འབུལ་སྣ་ཚོགས་ཀྱི་སྐོར་ཚོགས་གཉིས་ནོར་བུ་རྒྱས་པའི་སྤྲིན་ཆེན་རྒྱལ་བའི་རྟེན་གསུམ་བཞེངས་པ་དང་མཆོད་པའི་ཕན་ཡོན་ལས་འཕྲོས་པའི་གཏམ་བཅས།
     །
   authors:
   - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
-  sku: SHE-SG-01
   layers:
   - book_title
   - author
@@ -11,6 +12,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: SHE-SG-01
 web_metadata:
   title:
     en: Miscellaneous Writings
